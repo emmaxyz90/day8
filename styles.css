@@ -1,0 +1,30 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: verdatta sans-seriff;
+	box-sizing: border-box;
+	background: url(backgroundimage.jpg) 
+}
+
+#parallax{
+	background: url(backgroundimage.jpg) ;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+#parallax h2{
+	font-weight: bold;
+	font-size: 3em;
+	text-align: center;
+	color: #000000;
+	padding: 20px;
+}
+
+#parallax p{
+	font-size: 2em;
+	text-align: center;
+	padding: 10px;
+}
